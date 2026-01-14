@@ -7,6 +7,8 @@ Data Analytics Projects showcasing customer behaviour analysis using python , sq
 
 ---
 
+<img width="1082" height="590" alt="Screenshot 2026-01-14 202214" src="https://github.com/user-attachments/assets/5e4000d6-18c4-4657-aa0c-84080a080488" />
+
 ## 📂 Dataset Description
 
 - Records: 3,900 purchases
